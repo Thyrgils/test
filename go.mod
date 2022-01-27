@@ -1,4 +1,4 @@
-module github.com/Thyrgils/modul1del2
+module github.com/Thyrgils/test
 
 go 1.13
 
